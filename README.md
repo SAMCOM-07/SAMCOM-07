@@ -1,4 +1,4 @@
-# 👋 Hello, I'm SAMCOM-07
+# 👋 Hello, I'm Samuel
 
 ## About Me
 
