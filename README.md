@@ -4,7 +4,7 @@
 
 I am a passionate and detail-oriented Frontend Developer with quality experience in designing and building responsive web applications. My primary focus is on delivering high-quality interfaces using modern technologies and best practices.
 
-##  Technologies & Tools 💻🔧
+##  Skills & Tools 💻🔧
 - HTML5, CSS3, JavaScript (ES6+)
 - React, Tailwind CSS
 - Git & GitHub, REST APIs
