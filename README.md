@@ -17,6 +17,7 @@ I am a passionate and detail-oriented Frontend Developer with quality experience
 ## Furthering by learning
 - Next.js
 - Firebase
+- Redux
 - Advanced animations and performance
 
 I am committed to writing clean, maintainable code and staying updated with the latest advancements in frontend development. My goal is to create intuitive and efficient digital experiences that meet user needs and business objectives.
