@@ -6,19 +6,11 @@ I am a passionate and detail-oriented Frontend Developer with quality experience
 
 ##  Skills & Tools 💻🔧
 - HTML5, CSS3, JavaScript (ES6+)
-- React, Tailwind CSS
+- React.js, Next.js, Tailwind CSS
+- Firebase
 - Git & GitHub, REST APIs
 - Responsive Design, Figma to Code
-
-## 🚀 Currently Learning
-- React.js
-- TypeScript
-
-## Furthering by learning
-- Next.js
-- Firebase
-- Redux
-- Advanced animations and performance
+  
 
 I am committed to writing clean, maintainable code and staying updated with the latest advancements in frontend development. My goal is to create intuitive and efficient digital experiences that meet user needs and business objectives.
 
